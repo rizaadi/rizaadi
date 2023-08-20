@@ -1,5 +1,5 @@
 ### 👋 Hi 
-You can call me Riza, Interested in Web Developer, Mobile Developer, and Design. I also like to learn new things about technology, photography, and design.
+Hello, my name is Riza. I am passionate about web development, mobile development, and design. I enjoy expanding my knowledge in the field of technology, photography, and design.
 
 
 
