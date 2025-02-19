@@ -2,7 +2,7 @@
 A software engineer passionate about solving problems for positive impact.
 I'm currently a Flutter Developer [@PupukIndonesia](https://www.pupuk-indonesia.com) transforming challenges into elegant code solutions for mobile development.
 
-- Having fun with Flutter, Kotlin, Swift and React.
+- Having fun with Flutter, Kotlin, Swift, React and Golang.
 - Make a personal website and writing random thought at [rizaadikurniawan.com](www.rizaadikurniawan.com).
 - Love to learn all things about technology.
 - Stoic.
